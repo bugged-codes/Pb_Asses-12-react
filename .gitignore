@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/12th-react-3.code-workspace
+/12th-react-3.mov
